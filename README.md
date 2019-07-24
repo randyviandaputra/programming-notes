@@ -2,8 +2,8 @@
 
 Ini adalah kumpulan catatan saya tentang teknologi khususnya di bidang
 programming & development 😎. silahkan bagi temen-temen yang mau share catatan
-hasil belajar temen-temen di repo ini langsung aja fork ya 😎dan jangan lupa klik ⭐️
-nya ya 😃
+hasil belajar temen-temen di repo ini langsung aja fork ya 😎dan jangan lupa
+klik ⭐️ nya ya 😃
 
 ## Cara Menambahkan Catatan Baru
 
@@ -14,11 +14,16 @@ nya ya 😃
 ## List Catatan
 
 1. [Penulisan ES6 & Pengenalan Fitur](https://github.com/randyviandaputra/my-notes/blob/master/penulisan-es6-dan-pengenalan-fitur.md)
+2. [Kenalan dengan React](https://github.com/randyviandaputra/my-notes/blob/master/kenalan-dengan-react.md)
 
 ## Kontak Saya
 
 - Email : modulloe@gmail.com
 - Telegram : [@randyvp](https://t.me/randyvp)
+
+## Kontributor
+
+[@positiveneutron](https://github.com/positiveneutron)
 
 ## License
 
