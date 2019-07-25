@@ -9,6 +9,7 @@ klik ⭐️ nya ya 😃
 
 - Fork repo ini, dan buat branch baru
 - PR ke branch master dari repo ini
+- Jangan menambahkan kontributor sendiri ! 😃
 - Makasih buat kontribusinya, jangan lupa di share dan semoga bermanfaat
 
 ## List Catatan
