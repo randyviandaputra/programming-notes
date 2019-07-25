@@ -11,7 +11,7 @@ Seperti yang kita tahu [React](https://github.com/facebook/react) adalah library
 untuk view dalam pembuatan aplikasi Front End. Nah seiring berjalannya update
 terkini, pada note ini akan membahas perintah react dasar. Sangat
 direkomendasikan untuk memahami `JS ES6` terlebih dahulu. Salah satu note nya
-[disini](https://github.com/randyviandaputra/my-notes/blob/master/kenalan-dengan-react.md).
+[disini](https://github.com/randyviandaputra/my-notes/blob/master/penulisan-es6-dan-pengenalan-fitur).
 
 ## Daftar Isi
 
@@ -45,7 +45,7 @@ function CustomFooter() {
     color: 'red',
   }
 
-  return <footer style={style}>Copyright 2019</footer>
+  return <footer style={customStyle}>Copyright 2019</footer>
 }
 
 export default CustomFooter
