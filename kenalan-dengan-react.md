@@ -16,6 +16,8 @@ direkomendasikan untuk memahami `JS ES6` terlebih dahulu. Salah satu note nya
 ## Daftar Isi
 
 - [Komponen Fungsi](#komponen-fungsi)
+- [Bermain dengan Props](#bermain-props)
+- [Stateful dan Stateless](#state)
 - Akan diupdate/ bertambah ASAP^^
 
 ## Komponen Fungsi
@@ -49,6 +51,99 @@ function CustomFooter() {
 }
 
 export default CustomFooter
+```
+
+## Bermain dengan Props
+
+<a name="bermain-props"></a> Komponen dalam aplikasi web maupun native React
+seringkali terdari dari lebih dari 1 komponen. Props adalah teknik untuk
+mengirim data antar komponen tersebut.
+
+<div class="class">Contoh Props</div>
+
+```js
+//CustomFooter.js
+function CustomFooter(copyrightYear = "defaultTahun") {
+  return <footer>Copyright {copyrightYear}</footer>
+}
+
+export default CustomFooter
+
+//App.js
+import CustomFooter from './components/CustomFooter.js'
+
+function App(){
+  return(<div>
+    <header>Aku tag native header</header>
+    <section>Aku tag native section</section>
+    <CustomFooter copyrightYear = "2019"/>
+  </div>)
+}
+
+export default App
+```
+
+Gimana kalau mau passing props lain selain `copyrightYear` dengan ringkas?
+solusi menggunakan spread atribute.
+
+```js
+//CustomFooter.js
+function CustomFooter({copyrightYear = "defaultTahun", ...props}) {
+  return <footer {...props}>Copyright {copyrightYear}</footer>
+}
+
+export default CustomFooter
+
+//App.js
+import CustomFooter from './components/CustomFooter.js'
+
+function App(){
+  return(<div>
+    <header>Aku tag native header</header>
+    <section>Aku tag native section</section>
+    <CustomFooter className = "custom-footer" copyrightYear = "2019"/>
+  </div>)
+}
+
+export default App
+```
+
+Snippet code diatas memberikan props `className` pada elemen `<footer>` yang
+berada pada fungsi `CustomFooter`.
+
+## Stateful dan Stateless
+
+<a name="state"></a> Kalau bagian sebelumnya membahas bagaimana mengirim data
+antar komponen, kali ini bagaimana mengubah/ memutasi data dalam satu komponen.
+Dikatakan stateful ketika ada state didalam komponen nya, cirinya menggunakan
+`useState`. Sedangkan stateless sebaliknya.
+
+<div class="class">Stateful dan Stateless</div>
+
+```js
+//Components.js
+import React, {useState} from 'react'
+
+//Component Stateful
+export default function ComponentStateful() {
+  const [name, setName] = useState('Budi')
+
+  return (
+    <div>
+      <ComponentStateless nama={name} />
+      <input type="text" value={name} onKeyDown={setName(e.target.value)} />
+    </div>
+  )
+}
+
+//Component Stateless
+function ComponentStateless(nama = 'defaultNama') {
+  return (
+    <div>
+      <section>Hi nama ku {nama}</section>
+    </div>
+  )
+}
 ```
 
 Jika ini bermanfaat, silahkan share 😃
