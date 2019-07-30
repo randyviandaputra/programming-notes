@@ -24,8 +24,8 @@ klik ⭐️ nya ya 😃
 
 ## Kontributor
 
-| [<img src="https://avatars1.githubusercontent.com/u/12962273?s=460&v=4" width="50px;"/><br /><sub><b>Randy Vianda Putra</b></sub>](https://github.com/randyviandaputra) | [<img src="https://avatars1.githubusercontent.com/u/12992413?s=460&v=4" width="50px;"/><br /><sub><b>M Ilham Fadillah</b></sub>](https://github.com/positiveneutron) |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://avatars1.githubusercontent.com/u/12962273?s=460&v=4" width="50px;"/><br /><sub><b>Randy Vianda Putra</b></sub>](https://github.com/randyviandaputra) | [<img src="https://avatars1.githubusercontent.com/u/12992413?s=460&v=4" width="50px;"/><br /><sub><b>Ilham Fadillah</b></sub>](https://github.com/positiveneutron) |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 
 ## License
