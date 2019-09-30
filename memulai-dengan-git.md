@@ -35,7 +35,7 @@ Tentu saja, panah dapat mengarah ke segala arah untuk kedua metode - unggah
 [GitHub](http://www.github.com) adalah lokasi paling populer untuk menampung
 repositori, jadi silakan temen-temen buat akun di sana jika belum.
 
-Saya akan asumsikan nama pengguna AjarinKoding ** AjarinKoding **. Ini akan
+Saya akan asumsikan nama pengguna AjarinKoding **AjarinKoding**. Ini akan
 membuat akun GitHub baru Anda `github.com/AjarinKoding`.
 
 Once you've made your account, create a repository by clicking **Add New Repo**.
