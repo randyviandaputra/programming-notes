@@ -16,6 +16,7 @@ klik ⭐️ nya ya 😃
 
 1. [Penulisan ES6 & Pengenalan Fitur](https://github.com/randyviandaputra/my-notes/blob/master/penulisan-es6-dan-pengenalan-fitur.md)
 2. [Kenalan dengan React](https://github.com/randyviandaputra/my-notes/blob/master/kenalan-dengan-react.md)
+3. [Memulai dengan Git](https://github.com/randyviandaputra/my-notes/blob/master/memulai-dengan-git.md)
 
 ## Kontak Saya
 
