@@ -35,7 +35,7 @@ Tentu saja, panah dapat mengarah ke segala arah untuk kedua metode - unggah
 [GitHub](http://www.github.com) adalah lokasi paling populer untuk menampung
 repositori, jadi silakan temen-temen buat akun di sana jika belum.
 
-Saya akan asumsikan nama pengguna AjarinKoding ** AjarinKoding **. Ini akan
+Saya akan asumsikan nama pengguna AjarinKoding **AjarinKoding**. Ini akan
 membuat akun GitHub baru Anda `github.com/AjarinKoding`.
 
 Once you've made your account, create a repository by clicking **Add New Repo**.
@@ -43,9 +43,9 @@ Do not initialize with a README.md or .gitignore at this point. We can call the
 repository **project**. Your repository has been created at
 `github.com/you/project`. It should be completely empty.
 
-Setelah membuat akun, buat repositori dengan mengklik ** Tambahkan Repo Baru **.
+Setelah membuat akun, buat repositori dengan mengklik **Tambahkan Repo Baru**.
 Jangan menginisialisasi dengan README.md atau .gitignore pada saat ini. Kita
-dapat memanggil repositori ** project **. Repositori Anda telah dibuat di
+dapat memanggil repositori **project**. Repositori Anda telah dibuat di
 `github.com/AjarinKoding/project`. Itu harus benar-benar kosong.
 
 **tunggu untuk langkah selanjutnya ... 😃**
