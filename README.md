@@ -1,6 +1,6 @@
 # My Notes
 
-Ini adalah kumpulan catatan saya tentang teknologi khususnya di bidang
+Ini adalah kumpulan catatan tentang teknologi khususnya di bidang
 programming & development 😎. silahkan bagi temen-temen yang mau share catatan
 hasil belajar temen-temen di repo ini langsung aja fork ya 😎dan jangan lupa
 klik ⭐️ nya ya 😃
