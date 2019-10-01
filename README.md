@@ -1,4 +1,4 @@
-# My Notes
+# Programming Notes
 
 Ini adalah kumpulan catatan tentang teknologi khususnya di bidang
 programming & development 😎. silahkan bagi temen-temen yang mau share catatan
