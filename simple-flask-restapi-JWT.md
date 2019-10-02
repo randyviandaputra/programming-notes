@@ -53,3 +53,8 @@ $  . ven/bin/activate
 ```
 $ pip install Flask
 ```
+
+[==> Read more...](https://emixbal.gitbook.io/workspace/) 
+
+> kalo sempet nanti pindah sini semua :)
+
