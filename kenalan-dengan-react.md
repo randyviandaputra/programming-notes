@@ -11,7 +11,7 @@ Seperti yang kita tahu [React](https://github.com/facebook/react) adalah library
 untuk view dalam pembuatan aplikasi Front End. Nah seiring berjalannya update
 terkini, pada note ini akan membahas perintah react dasar. Sangat
 direkomendasikan untuk memahami `JS ES6` terlebih dahulu. Salah satu note nya
-[disini](https://github.com/randyviandaputra/my-notes/blob/master/penulisan-es6-dan-pengenalan-fitur).
+[disini](https://github.com/randyviandaputra/my-notes/blob/master/penulisan-es6-dan-pengenalan-fitur.md).
 
 ## Daftar Isi
 
@@ -26,7 +26,7 @@ direkomendasikan untuk memahami `JS ES6` terlebih dahulu. Salah satu note nya
 yang digunakan adalah 16.8.6. The newest update nya komponen sekarang
 menggunakan fungsi tidak menggunakan class lagi.
 
-<div class="class">Contoh Komponen</div>
+<div class="class">Contoh Komponen, contoh di <a href = "https://codesandbox.io/embed/programming-notes-komponen-fungsi-1knl3?fontsize=14" target="_blank">sandbox.io</a></div>
 
 ```js
 function CustomFooter() {
